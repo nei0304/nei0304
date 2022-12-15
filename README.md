@@ -1,12 +1,8 @@
-## Ola 👋
-
-### Seja bem vindo ao meu espaço do tempo!
- 
-<div align="center">
+### Ola, seja bem vindo ao meu espaço do tempo 👨‍💻.
+<div style="display: inline_block"><br>
   <a href="https://github.com/nei0304">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nei0304&theme=blue-green&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nei0304&theme=blue-green"/>
-  <img height="180em" src="https://starchart.cc/nei0304/starcharts.svg"/>
 </div>
  
  <div style="display: inline_block"><br>
