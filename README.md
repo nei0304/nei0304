@@ -1,4 +1,4 @@
-### Ola, seja bem vindo a minha linha do tempo 👨‍💻.
+### Ola, seja bem vindo👨‍💻.
 <div style="display: inline_block"><br>
   <a href="https://github.com/nei0304">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nei0304&theme=blue-green&show_icons=true"/>
