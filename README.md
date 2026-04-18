@@ -1,6 +1,7 @@
 # Francinei Cardoso Costa
 ### Olá, seja bem-vindo ao meu portfólio👨‍💻.
 
+### 💡 Sobre mim
 Sou desenvolvedor web e desktop focado em criar aplicações modernas e performáticas, usando tecnologias e ferramentas atuais como .Net, C#, React, Agular, Node.js e TypeScript para transformar ideias em soluções reais.
 
 ## 🚀 Conecte-se comigo
