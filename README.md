@@ -1,98 +1,62 @@
 # Francinei Cardoso Costa
 
-<p align="center">
-  <img src="https://github.com/nei0304.png" width="120" style="border-radius:50%;" alt="Francinei Cardoso Costa" />
+<p align="right">
+  <a href="./README.en.md">English version</a>
 </p>
 
 <p align="center">
-  <strong>Full Stack Developer | React · TypeScript · .NET · C# · Node.js</strong>
+  <strong>Desenvolvedor Full Stack | React · TypeScript · .NET · C# · Node.js</strong>
 </p>
 
 <p align="center">
-  I build scalable web applications with clean architecture, modern front ends, and robust back ends.<br/>
-  Desenvolvo aplicações web escaláveis com arquitetura limpa, interfaces modernas e back ends robustos.
+  Construo aplicações web modernas, escaláveis e orientadas a produto.
 </p>
 
-<p align="center">
+---
+
+## 👨‍💻 Sobre
+
+Desenvolvedor Full Stack com experiência em aplicações web, integrações e soluções em tempo real.
+Entrego software com **qualidade técnica**, **manutenibilidade** e alinhamento direto ao produto.
+
+---
+
+## ✅ Principais forças
+
+- **React** · **TypeScript** · interfaces modernas
+- **.NET / C#** · **Node.js** · APIs robustas
+- Tempo real com **WebSocket**
+- Arquitetura modular e código limpo
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | Destaque |
+|---|---|
+| [crm-system](https://github.com/nei0304/crm-system) | CRM de gestão de leads — visão de negócio e fluxo orientado a produto |
+| [react-dotnet](https://github.com/nei0304/react-dotnet) | Full stack React + .NET — integração sólida e separação de responsabilidades |
+| [websocket](https://github.com/nei0304/websocket) | Comunicação em tempo real — arquitetura orientada a eventos |
+| [microfrontend](https://github.com/nei0304/microfrontend) | Arquitetura microfrontend — modularidade e escalabilidade |
+
+---
+
+## 🛠️ Stack
+
+`React` `TypeScript` `Angular` `JavaScript` · `.NET` `C#` `Node.js` `Express` · `SQL Server` `MySQL` · `Docker` `Git`
+
+---
+
+## 📫 Contato
+
+<p>
   <a href="https://www.linkedin.com/in/francinei-cardoso-costa-58212b90/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:francinei_cardoso@hotmail.com" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-francinei__cardoso%40hotmail.com-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
-
-## About
-
-Full Stack Developer with hands-on experience building end-to-end web applications, API integrations, and real-time solutions.
-My focus is delivering software that is maintainable, scalable, and aligned with product and business goals.
-
-Desenvolvedor Full Stack com experiência em aplicações web completas, integrações de API e soluções em tempo real.
-Meu foco é entregar software sustentável, escalável e alinhado aos objetivos de produto e negócio.
-
----
-
-## Core Strengths
-
-- Front-end development with **React**, **TypeScript**, and modern UI patterns
-- Back-end development with **.NET / C#** and **Node.js**
-- Real-time applications with **WebSocket** and **SignalR**
-- Scalable and modular solution design
-- Clean, maintainable, and product-oriented development
-
----
-
-## 🚀 Featured Projects
-
-### [crm-system](https://github.com/nei0304/crm-system)
-Lead management CRM with HubSpot integration and process automation.
-**Highlights:** business-oriented architecture, process visibility, and practical product thinking.
-
-### [react-dotnet](https://github.com/nei0304/react-dotnet)
-Full stack task management app built with React and .NET.
-**Highlights:** strong front-end/back-end integration and maintainable solution design.
-
-### [websocket](https://github.com/nei0304/websocket)
-Real-time chat using WebSocket and event-driven architecture.
-**Highlights:** event-driven behavior, live updates, and interactive communication flows.
-
-### [signalR](https://github.com/nei0304/signalR)
-React application with real-time client-server synchronization via SignalR.
-**Highlights:** reactive communication patterns and real-time application behavior.
-
-### [shopping-cart](https://github.com/nei0304/shopping-cart)
-E-commerce simulation with cart flow, authentication, and global state management.
-**Highlights:** user flow design, interface structure, and front-end application logic.
-
-### [microfrontend](https://github.com/nei0304/microfrontend)
-Microfrontend architecture example enabling team autonomy and scalable modularity.
-**Highlights:** architectural thinking for distributed and scalable front-end systems.
-
----
-
-## 🛠️ Main Stack
-
-**Front-end**
-React · TypeScript · Angular · JavaScript · HTML · CSS
-
-**Back-end**
-.NET · C# · Node.js · Express
-
-**Databases**
-SQL Server · MySQL · Oracle
-
-**Tools**
-Git · GitHub · GitLab · Docker
-
----
-
-## 🎯 Career Focus
-
-Open to opportunities in **front-end, back-end, and full stack development**, contributing to robust, scalable, and product-driven solutions in teams that value code quality and collaboration.
-
-Aberto a oportunidades em **desenvolvimento front-end, back-end e full stack**, contribuindo com soluções robustas, escaláveis e orientadas a produto em times que valorizam qualidade e colaboração.
 
 ---
 
@@ -106,12 +70,5 @@ Aberto a oportunidades em **desenvolvimento front-end, back-end e full stack**, 
 </div>
 
 <div align="center">
-  <img width="80%" height="180em" src="https://streak-stats.demolab.com/?user=nei0304&theme=react&background=000&border=30A3DC&dates=FFF" alt="GitHub streak" />
+  <img width="80%" src="https://streak-stats.demolab.com/?user=nei0304&theme=react&background=000&border=30A3DC&dates=FFF" alt="GitHub streak" />
 </div>
-
----
-
-## 📫 Contact
-
-- **LinkedIn:** [linkedin.com/in/francinei-cardoso-costa-58212b90](https://www.linkedin.com/in/francinei-cardoso-costa-58212b90/)
-- **Email:** [francinei_cardoso@hotmail.com](mailto:francinei_cardoso@hotmail.com)
