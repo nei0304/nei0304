@@ -1,30 +1,67 @@
-# Francinei Cardoso Costa
+# Francinei Cardoso Costa 👨‍💻
 
 <p align="center">
-  <strong>Full Stack Developer • React • TypeScript • .NET • C# • Node.js</strong>
+  <strong>Full Stack Developer</strong><br/>
+  React • TypeScript • .NET • C# • Node.js
 </p>
 
 <p align="center">
-  <strong>PT-BR:</strong> Desenvolvedor Full Stack focado em criar aplicações web modernas, escaláveis e orientadas a resultados de negócio.<br/>
-  <strong>EN:</strong> Full Stack Developer focused on building modern, scalable web applications aligned with business outcomes.
+  Desenvolvimento de aplicações modernas, escaláveis e bem estruturadas, com foco em performance e experiência do usuário.<br/>
+  Building modern, scalable, and well-structured applications focused on performance and user experience.
 </p>
 
-## 👨‍💻 About / Sobre
+<p align="center">
+  <a href="https://www.linkedin.com/in/francinei-cardoso-costa-58212b90/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nei0304@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-**PT-BR:** Atuo no desenvolvimento de soluções end-to-end com foco em experiência do usuário, arquitetura limpa e manutenção eficiente. Tenho experiência com aplicações full stack, integrações e sistemas em tempo real.
+---
 
-**EN:** I build end-to-end solutions with emphasis on user experience, clean architecture, and maintainable code. I have hands-on experience with full stack applications, integrations, and real-time systems.
+## ✨ Sobre | About
 
-## 🚀 Featured Projects / Projetos em Destaque
+**PT-BR**
 
-- [**nei0304/crm-system**](https://github.com/nei0304/crm-system) — CRM para gestão de leads com integração de processos de negócio.
-- [**nei0304/react-dotnet**](https://github.com/nei0304/react-dotnet) — Aplicação full stack com React + .NET para gestão de atividades.
-- [**nei0304/websocket**](https://github.com/nei0304/websocket) — Projeto de comunicação em tempo real com WebSocket e arquitetura orientada a eventos.
-- [**nei0304/signalR**](https://github.com/nei0304/signalR) — Aplicação com SignalR para atualização em tempo real entre cliente e servidor.
-- [**nei0304/shopping-cart**](https://github.com/nei0304/shopping-cart) — Projeto de carrinho de compras com fluxo de e-commerce e autenticação mockada.
-- [**nei0304/microfrontend**](https://github.com/nei0304/microfrontend) — Exemplo de arquitetura microfrontend com modularidade e escalabilidade.
+Sou desenvolvedor Full Stack com foco em criar aplicações web modernas, mantendo código limpo, arquitetura organizada e evolução sustentável do produto.
 
-## 🛠️ Main Stack / Stack Principal
+**EN**
+
+I am a Full Stack Developer focused on building modern web applications with clean code, organized architecture, and sustainable product evolution.
+
+---
+
+## 🚀 Projetos em destaque | Featured Projects
+
+- **[crm-system](https://github.com/nei0304/crm-system)**  
+  **PT:** Sistema de gestão de leads com integração HubSpot.  
+  **EN:** Lead management system integrated with HubSpot.
+
+- **[react-dotnet](https://github.com/nei0304/react-dotnet)**  
+  **PT:** Projeto full stack para gerenciamento de atividades com React e .NET.  
+  **EN:** Full stack activity management project built with React and .NET.
+
+- **[websocket](https://github.com/nei0304/websocket)**  
+  **PT:** Chat em tempo real com arquitetura orientada a eventos usando WebSocket.  
+  **EN:** Real-time chat using WebSocket and event-driven architecture.
+
+- **[signalR](https://github.com/nei0304/signalR)**  
+  **PT:** Aplicação React com atualização em tempo real via SignalR.  
+  **EN:** React application with real-time updates using SignalR.
+
+- **[shopping-cart](https://github.com/nei0304/shopping-cart)**  
+  **PT:** Simulação de e-commerce com fluxo de carrinho e autenticação mockada.  
+  **EN:** E-commerce simulation with cart flow and mocked authentication.
+
+- **[microfrontend](https://github.com/nei0304/microfrontend)**  
+  **PT:** Exemplo de arquitetura microfrontend para modularidade e escalabilidade.  
+  **EN:** Microfrontend architecture example focused on modularity and scalability.
+
+---
+
+## 🛠️ Stack principal | Main Stack
 
 ### Front-end
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,43 +77,47 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-### Databases / Bancos de dados
+### Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### Tools / Ferramentas
+### Tools
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📫 Contact / Contato
-
-<p>
-  <a href="https://www.linkedin.com/in/francinei-cardoso-costa-58212b90/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:nei0304@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/nei0304">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nei0304&show_icons=true&theme=blue-green" alt="GitHub stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nei0304&layout=compact&theme=blue-green" alt="Top languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nei0304&show_icons=true&theme=blue-green" alt="GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nei0304&layout=compact&theme=blue-green" alt="Top languages" />
   </a>
 </div>
 
 <div align="center">
-  <img width="80%" height="180em" src="https://streak-stats.demolab.com/?user=nei0304&theme=react&background=000&border=30A3DC&dates=FFF" alt="GitHub Streak Stats"/>
+  <img width="80%" height="180em" src="https://streak-stats.demolab.com/?user=nei0304&theme=react&background=000&border=30A3DC&dates=FFF" alt="GitHub streak" />
 </div>
 
-## 🎯 Career Objective / Objetivo Profissional
+---
 
-**PT-BR:** Busco oportunidades para atuar em projetos front-end, back-end e full stack, contribuindo com soluções robustas, escaláveis e orientadas a produto.
+## 🎯 Objetivo profissional | Career Goal
 
-**EN:** I am seeking opportunities in front-end, back-end, and full stack projects, delivering robust, scalable, product-oriented solutions.
+**PT-BR**
+
+Busco oportunidades para atuar no desenvolvimento de aplicações front-end, back-end e full stack, contribuindo com soluções modernas, organizadas e escaláveis.
+
+**EN**
+
+I am looking for opportunities to work on front-end, back-end, and full stack applications, contributing with modern, organized, and scalable solutions.
+
+---
+
+## 📫 Contato | Contact
+
+- **LinkedIn:** [linkedin.com/in/francinei-cardoso-costa-58212b90](https://www.linkedin.com/in/francinei-cardoso-costa-58212b90/)
+- **E-mail:** [nei0304@gmail.com](mailto:nei0304@gmail.com)
