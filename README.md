@@ -1,92 +1,98 @@
-# Francinei Cardoso Costa 👨‍💻
+# Francinei Cardoso Costa
 
 <p align="center">
-  <strong>Full Stack Developer</strong><br/>
-  React • TypeScript • .NET • C# • Node.js
+  <img src="https://github.com/nei0304.png" width="120" style="border-radius:50%;" alt="Francinei Cardoso Costa" />
 </p>
 
 <p align="center">
-  Desenvolvimento de aplicações web modernas e escaláveis, com foco em entregas de valor, código limpo e experiência do usuário.<br/>
-  Building modern, scalable web applications with a focus on delivering business value, clean code, and great user experience.
+  <strong>Full Stack Developer | React · TypeScript · .NET · C# · Node.js</strong>
+</p>
+
+<p align="center">
+  I build scalable web applications with clean architecture, modern front ends, and robust back ends.<br/>
+  Desenvolvo aplicações web escaláveis com arquitetura limpa, interfaces modernas e back ends robustos.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/francinei-cardoso-costa-58212b90/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:nei0304@gmail.com" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:francinei_cardoso@hotmail.com" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## ✨ Sobre | About
+## About
 
-**PT-BR**
+Full Stack Developer with hands-on experience building end-to-end web applications, API integrations, and real-time solutions.
+My focus is delivering software that is maintainable, scalable, and aligned with product and business goals.
 
-Desenvolvedor Full Stack com experiência em aplicações end-to-end usando React, TypeScript, .NET e Node.js. Tenho foco em arquitetura limpa, código sustentável e entrega de produtos que geram resultado real.
-
-**EN**
-
-Full Stack Developer experienced in end-to-end applications using React, TypeScript, .NET, and Node.js. I focus on clean architecture, maintainable code, and delivering products that drive real results.
+Desenvolvedor Full Stack com experiência em aplicações web completas, integrações de API e soluções em tempo real.
+Meu foco é entregar software sustentável, escalável e alinhado aos objetivos de produto e negócio.
 
 ---
 
-## 🚀 Projetos em destaque | Featured Projects
+## Core Strengths
 
-- **[crm-system](https://github.com/nei0304/crm-system)**  
-  **PT:** CRM para gestão de leads com integração HubSpot e automação de processos.  
-  **EN:** Lead management CRM with HubSpot integration and process automation.
-
-- **[react-dotnet](https://github.com/nei0304/react-dotnet)**  
-  **PT:** Aplicação full stack com React e .NET para gerenciamento de atividades e tarefas.  
-  **EN:** Full stack task management app built with React and .NET.
-
-- **[websocket](https://github.com/nei0304/websocket)**  
-  **PT:** Chat em tempo real com arquitetura orientada a eventos e WebSocket.  
-  **EN:** Real-time chat using WebSocket and event-driven architecture.
-
-- **[signalR](https://github.com/nei0304/signalR)**  
-  **PT:** Aplicação React com comunicação em tempo real via SignalR entre cliente e servidor.  
-  **EN:** React application with real-time client-server communication via SignalR.
-
-- **[shopping-cart](https://github.com/nei0304/shopping-cart)**  
-  **PT:** Simulação de e-commerce com fluxo de carrinho, autenticação e estado global.  
-  **EN:** E-commerce simulation with cart flow, authentication, and global state management.
-
-- **[microfrontend](https://github.com/nei0304/microfrontend)**  
-  **PT:** Arquitetura microfrontend para modularidade, escalabilidade e times independentes.  
-  **EN:** Microfrontend architecture example enabling team autonomy and scalable modularity.
+- Front-end development with **React**, **TypeScript**, and modern UI patterns
+- Back-end development with **.NET / C#** and **Node.js**
+- Real-time applications with **WebSocket** and **SignalR**
+- Scalable and modular solution design
+- Clean, maintainable, and product-oriented development
 
 ---
 
-## 🛠️ Stack principal | Main Stack
+## 🚀 Featured Projects
 
-### Front-end
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### [crm-system](https://github.com/nei0304/crm-system)
+Lead management CRM with HubSpot integration and process automation.
+**Highlights:** business-oriented architecture, process visibility, and practical product thinking.
 
-### Back-end
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+### [react-dotnet](https://github.com/nei0304/react-dotnet)
+Full stack task management app built with React and .NET.
+**Highlights:** strong front-end/back-end integration and maintainable solution design.
 
-### Databases
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### [websocket](https://github.com/nei0304/websocket)
+Real-time chat using WebSocket and event-driven architecture.
+**Highlights:** event-driven behavior, live updates, and interactive communication flows.
 
-### Tools
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### [signalR](https://github.com/nei0304/signalR)
+React application with real-time client-server synchronization via SignalR.
+**Highlights:** reactive communication patterns and real-time application behavior.
+
+### [shopping-cart](https://github.com/nei0304/shopping-cart)
+E-commerce simulation with cart flow, authentication, and global state management.
+**Highlights:** user flow design, interface structure, and front-end application logic.
+
+### [microfrontend](https://github.com/nei0304/microfrontend)
+Microfrontend architecture example enabling team autonomy and scalable modularity.
+**Highlights:** architectural thinking for distributed and scalable front-end systems.
+
+---
+
+## 🛠️ Main Stack
+
+**Front-end**
+React · TypeScript · Angular · JavaScript · HTML · CSS
+
+**Back-end**
+.NET · C# · Node.js · Express
+
+**Databases**
+SQL Server · MySQL · Oracle
+
+**Tools**
+Git · GitHub · GitLab · Docker
+
+---
+
+## 🎯 Career Focus
+
+Open to opportunities in **front-end, back-end, and full stack development**, contributing to robust, scalable, and product-driven solutions in teams that value code quality and collaboration.
+
+Aberto a oportunidades em **desenvolvimento front-end, back-end e full stack**, contribuindo com soluções robustas, escaláveis e orientadas a produto em times que valorizam qualidade e colaboração.
 
 ---
 
@@ -105,19 +111,7 @@ Full Stack Developer experienced in end-to-end applications using React, TypeScr
 
 ---
 
-## 🎯 Objetivo profissional | Career Goal
-
-**PT-BR**
-
-Busco oportunidades em times que valorizem qualidade de código, colaboração e impacto de produto — atuando como desenvolvedor front-end, back-end ou full stack em soluções modernas e escaláveis.
-
-**EN**
-
-I am looking for opportunities in teams that value code quality, collaboration, and product impact — working as a front-end, back-end, or full stack developer on modern and scalable solutions.
-
----
-
-## 📫 Contato | Contact
+## 📫 Contact
 
 - **LinkedIn:** [linkedin.com/in/francinei-cardoso-costa-58212b90](https://www.linkedin.com/in/francinei-cardoso-costa-58212b90/)
-- **E-mail:** [nei0304@gmail.com](mailto:nei0304@gmail.com)
+- **Email:** [francinei_cardoso@hotmail.com](mailto:francinei_cardoso@hotmail.com)
