@@ -14,7 +14,7 @@
 
 ---
 
-## Sobre
+## 👨‍💻 Sobre
 
 Desenvolvedor Full Stack com experiência sólida em front-end, back-end, integrações e soluções em tempo real.
 
@@ -24,7 +24,7 @@ Tenho vivência em projetos que exigem arquitetura limpa, comunicação eficient
 
 ---
 
-## Principais forças
+## ✅ Principais forças
 
 - **React** e **TypeScript** — interfaces modernas, performáticas e acessíveis
 - **.NET / C#** e **Node.js** — APIs robustas, bem estruturadas e escaláveis
@@ -33,7 +33,7 @@ Tenho vivência em projetos que exigem arquitetura limpa, comunicação eficient
 
 ---
 
-## Projetos em destaque
+## 🚀 Projetos em destaque
 
 ### [crm-system](https://github.com/nei0304/crm-system)
 CRM para gestão de leads e fluxo comercial.  
@@ -53,7 +53,7 @@ Demonstra modularidade, autonomia de times e separação de domínios em sistema
 
 ---
 
-## Stack
+## 🛠️ Stack
 
 **Front-end**  
 React · TypeScript · Angular · JavaScript · HTML · CSS
@@ -69,7 +69,7 @@ Git · GitHub · GitLab · Docker
 
 ---
 
-## Contato
+## 📫 Contato
 
 <p>
   <a href="https://www.linkedin.com/in/francinei-cardoso-costa-58212b90/" target="_blank" rel="noopener noreferrer">
@@ -82,7 +82,7 @@ Git · GitHub · GitLab · Docker
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/nei0304">

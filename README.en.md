@@ -14,7 +14,7 @@
 
 ---
 
-## About
+## 👨‍💻 About
 
 Full Stack Developer with solid experience across front-end, back-end, integrations, and real-time solutions.
 
@@ -24,7 +24,7 @@ I have hands-on experience in projects that demand clean architecture, efficient
 
 ---
 
-## Core strengths
+## ✅ Core strengths
 
 - **React** and **TypeScript** — modern, performant, and accessible user interfaces
 - **.NET / C#** and **Node.js** — robust, well-structured, and scalable APIs
@@ -33,7 +33,7 @@ I have hands-on experience in projects that demand clean architecture, efficient
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### [crm-system](https://github.com/nei0304/crm-system)
 CRM application for lead management and commercial workflow organization.  
@@ -53,7 +53,7 @@ Demonstrates modularity, team autonomy, and domain separation in large-scale sys
 
 ---
 
-## Stack
+## 🛠️ Stack
 
 **Front-end**  
 React · TypeScript · Angular · JavaScript · HTML · CSS
@@ -69,7 +69,7 @@ Git · GitHub · GitLab · Docker
 
 ---
 
-## Contact
+## 📫 Contact
 
 <p>
   <a href="https://www.linkedin.com/in/francinei-cardoso-costa-58212b90/" target="_blank" rel="noopener noreferrer">
@@ -82,7 +82,7 @@ Git · GitHub · GitLab · Docker
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/nei0304">
