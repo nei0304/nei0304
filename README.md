@@ -9,58 +9,80 @@
 </p>
 
 <p align="center">
-  Construo aplicações web modernas, escaláveis e orientadas a produto.
+  Construo aplicações web escaláveis com arquitetura limpa, foco em qualidade técnica e entrega de valor real ao negócio.
 </p>
 
 ---
 
-## 👨‍💻 Sobre
+## Sobre
 
-Desenvolvedor Full Stack com experiência em aplicações web, integrações e soluções em tempo real.
-Entrego software com **qualidade técnica**, **manutenibilidade** e alinhamento direto ao produto.
+Desenvolvedor Full Stack com experiência sólida em front-end, back-end, integrações e soluções em tempo real.
 
----
+Atuo na construção de software orientado à **qualidade técnica**, **manutenibilidade** e **escalabilidade** — com atenção à experiência do usuário e ao impacto direto no produto.
 
-## ✅ Principais forças
-
-- **React** · **TypeScript** · interfaces modernas
-- **.NET / C#** · **Node.js** · APIs robustas
-- Tempo real com **WebSocket**
-- Arquitetura modular e código limpo
+Tenho vivência em projetos que exigem arquitetura limpa, comunicação eficiente entre sistemas e evolução sustentável de código ao longo do tempo.
 
 ---
 
-## 🚀 Projetos em destaque
+## Principais forças
 
-| Projeto | Destaque |
-|---|---|
-| [crm-system](https://github.com/nei0304/crm-system) | CRM de gestão de leads — visão de negócio e fluxo orientado a produto |
-| [react-dotnet](https://github.com/nei0304/react-dotnet) | Full stack React + .NET — integração sólida e separação de responsabilidades |
-| [websocket](https://github.com/nei0304/websocket) | Comunicação em tempo real — arquitetura orientada a eventos |
-| [microfrontend](https://github.com/nei0304/microfrontend) | Arquitetura microfrontend — modularidade e escalabilidade |
+- **React** e **TypeScript** — interfaces modernas, performáticas e acessíveis
+- **.NET / C#** e **Node.js** — APIs robustas, bem estruturadas e escaláveis
+- **WebSocket** e **SignalR** — soluções em tempo real e comunicação orientada a eventos
+- Arquitetura modular, código limpo e boas práticas de engenharia de software
 
 ---
 
-## 🛠️ Stack
+## Projetos em destaque
 
-`React` `TypeScript` `Angular` `JavaScript` · `.NET` `C#` `Node.js` `Express` · `SQL Server` `MySQL` · `Docker` `Git`
+### [crm-system](https://github.com/nei0304/crm-system)
+CRM para gestão de leads e fluxo comercial.  
+Demonstra visão de negócio aplicada ao desenvolvimento, organização de pipelines e orientação a produto.
+
+### [react-dotnet](https://github.com/nei0304/react-dotnet)
+Aplicação full stack com React no front-end e .NET no back-end.  
+Demonstra integração sólida entre camadas, separação de responsabilidades e boas práticas de API.
+
+### [websocket](https://github.com/nei0304/websocket)
+Comunicação em tempo real com arquitetura orientada a eventos.  
+Demonstra uso de WebSocket, gestão de estado assíncrono e design de sistemas reativos.
+
+### [microfrontend](https://github.com/nei0304/microfrontend)
+Arquitetura de microfrontend para aplicações front-end escaláveis.  
+Demonstra modularidade, autonomia de times e separação de domínios em sistemas de grande porte.
 
 ---
 
-## 📫 Contato
+## Stack
+
+**Front-end**  
+React · TypeScript · Angular · JavaScript · HTML · CSS
+
+**Back-end**  
+.NET · C# · Node.js · Express
+
+**Banco de dados**  
+SQL Server · MySQL · Oracle
+
+**Ferramentas**  
+Git · GitHub · GitLab · Docker
+
+---
+
+## Contato
 
 <p>
   <a href="https://www.linkedin.com/in/francinei-cardoso-costa-58212b90/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:francinei_cardoso@hotmail.com" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-francinei__cardoso%40hotmail.com-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Entrar%20em%20contato-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/nei0304">

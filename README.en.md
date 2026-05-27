@@ -9,58 +9,80 @@
 </p>
 
 <p align="center">
-  I build modern, scalable, product-oriented web applications.
+  I build scalable web applications with clean architecture, technical quality, and a strong focus on delivering real business value.
 </p>
 
 ---
 
-## 👨‍💻 About
+## About
 
-Full Stack Developer with experience in web applications, API integrations, and real-time solutions.
-I deliver software with **technical quality**, **maintainability**, and direct product alignment.
+Full Stack Developer with solid experience across front-end, back-end, integrations, and real-time solutions.
 
----
+My work is centered on **technical quality**, **maintainability**, and **scalability** — with close attention to user experience and direct product impact.
 
-## ✅ Core strengths
-
-- **React** · **TypeScript** · modern UI patterns
-- **.NET / C#** · **Node.js** · robust APIs
-- Real-time with **WebSocket**
-- Modular architecture and clean code
+I have hands-on experience in projects that demand clean architecture, efficient inter-system communication, and sustainable long-term code evolution.
 
 ---
 
-## 🚀 Featured Projects
+## Core strengths
 
-| Project | Highlight |
-|---|---|
-| [crm-system](https://github.com/nei0304/crm-system) | Lead management CRM — business-oriented thinking and product-focused design |
-| [react-dotnet](https://github.com/nei0304/react-dotnet) | Full stack React + .NET — solid integration and clear separation of concerns |
-| [websocket](https://github.com/nei0304/websocket) | Real-time communication — event-driven architecture |
-| [microfrontend](https://github.com/nei0304/microfrontend) | Microfrontend architecture — modularity and scalability |
+- **React** and **TypeScript** — modern, performant, and accessible user interfaces
+- **.NET / C#** and **Node.js** — robust, well-structured, and scalable APIs
+- **WebSocket** and **SignalR** — real-time solutions and event-driven communication
+- Modular architecture, clean code, and software engineering best practices
 
 ---
 
-## 🛠️ Stack
+## Featured Projects
 
-`React` `TypeScript` `Angular` `JavaScript` · `.NET` `C#` `Node.js` `Express` · `SQL Server` `MySQL` · `Docker` `Git`
+### [crm-system](https://github.com/nei0304/crm-system)
+CRM application for lead management and commercial workflow organization.  
+Demonstrates business-oriented thinking, pipeline management, and product-focused development.
+
+### [react-dotnet](https://github.com/nei0304/react-dotnet)
+Full stack application with React on the front-end and .NET on the back-end.  
+Demonstrates solid layer integration, clear separation of concerns, and API best practices.
+
+### [websocket](https://github.com/nei0304/websocket)
+Real-time communication with event-driven architecture.  
+Demonstrates WebSocket usage, asynchronous state management, and reactive system design.
+
+### [microfrontend](https://github.com/nei0304/microfrontend)
+Microfrontend architecture for scalable front-end applications.  
+Demonstrates modularity, team autonomy, and domain separation in large-scale systems.
 
 ---
 
-## 📫 Contact
+## Stack
+
+**Front-end**  
+React · TypeScript · Angular · JavaScript · HTML · CSS
+
+**Back-end**  
+.NET · C# · Node.js · Express
+
+**Databases**  
+SQL Server · MySQL · Oracle
+
+**Tools**  
+Git · GitHub · GitLab · Docker
+
+---
+
+## Contact
 
 <p>
   <a href="https://www.linkedin.com/in/francinei-cardoso-costa-58212b90/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:francinei_cardoso@hotmail.com" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-francinei__cardoso%40hotmail.com-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/nei0304">
