@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-  Desenvolvimento de aplicações modernas, escaláveis e bem estruturadas, com foco em performance e experiência do usuário.<br/>
-  Building modern, scalable, and well-structured applications focused on performance and user experience.
+  Desenvolvimento de aplicações web modernas e escaláveis, com foco em entregas de valor, código limpo e experiência do usuário.<br/>
+  Building modern, scalable web applications with a focus on delivering business value, clean code, and great user experience.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/francinei-cardoso-costa-58212b90/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:nei0304@gmail.com">
+  <a href="mailto:nei0304@gmail.com" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -25,39 +25,39 @@
 
 **PT-BR**
 
-Sou desenvolvedor Full Stack com foco em criar aplicações web modernas, mantendo código limpo, arquitetura organizada e evolução sustentável do produto.
+Desenvolvedor Full Stack com experiência em aplicações end-to-end usando React, TypeScript, .NET e Node.js. Tenho foco em arquitetura limpa, código sustentável e entrega de produtos que geram resultado real.
 
 **EN**
 
-I am a Full Stack Developer focused on building modern web applications with clean code, organized architecture, and sustainable product evolution.
+Full Stack Developer experienced in end-to-end applications using React, TypeScript, .NET, and Node.js. I focus on clean architecture, maintainable code, and delivering products that drive real results.
 
 ---
 
 ## 🚀 Projetos em destaque | Featured Projects
 
 - **[crm-system](https://github.com/nei0304/crm-system)**  
-  **PT:** Sistema de gestão de leads com integração HubSpot.  
-  **EN:** Lead management system integrated with HubSpot.
+  **PT:** CRM para gestão de leads com integração HubSpot e automação de processos.  
+  **EN:** Lead management CRM with HubSpot integration and process automation.
 
 - **[react-dotnet](https://github.com/nei0304/react-dotnet)**  
-  **PT:** Projeto full stack para gerenciamento de atividades com React e .NET.  
-  **EN:** Full stack activity management project built with React and .NET.
+  **PT:** Aplicação full stack com React e .NET para gerenciamento de atividades e tarefas.  
+  **EN:** Full stack task management app built with React and .NET.
 
 - **[websocket](https://github.com/nei0304/websocket)**  
-  **PT:** Chat em tempo real com arquitetura orientada a eventos usando WebSocket.  
+  **PT:** Chat em tempo real com arquitetura orientada a eventos e WebSocket.  
   **EN:** Real-time chat using WebSocket and event-driven architecture.
 
 - **[signalR](https://github.com/nei0304/signalR)**  
-  **PT:** Aplicação React com atualização em tempo real via SignalR.  
-  **EN:** React application with real-time updates using SignalR.
+  **PT:** Aplicação React com comunicação em tempo real via SignalR entre cliente e servidor.  
+  **EN:** React application with real-time client-server communication via SignalR.
 
 - **[shopping-cart](https://github.com/nei0304/shopping-cart)**  
-  **PT:** Simulação de e-commerce com fluxo de carrinho e autenticação mockada.  
-  **EN:** E-commerce simulation with cart flow and mocked authentication.
+  **PT:** Simulação de e-commerce com fluxo de carrinho, autenticação e estado global.  
+  **EN:** E-commerce simulation with cart flow, authentication, and global state management.
 
 - **[microfrontend](https://github.com/nei0304/microfrontend)**  
-  **PT:** Exemplo de arquitetura microfrontend para modularidade e escalabilidade.  
-  **EN:** Microfrontend architecture example focused on modularity and scalability.
+  **PT:** Arquitetura microfrontend para modularidade, escalabilidade e times independentes.  
+  **EN:** Microfrontend architecture example enabling team autonomy and scalable modularity.
 
 ---
 
@@ -73,7 +73,7 @@ I am a Full Stack Developer focused on building modern web applications with cle
 
 ### Back-end
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
@@ -109,11 +109,11 @@ I am a Full Stack Developer focused on building modern web applications with cle
 
 **PT-BR**
 
-Busco oportunidades para atuar no desenvolvimento de aplicações front-end, back-end e full stack, contribuindo com soluções modernas, organizadas e escaláveis.
+Busco oportunidades em times que valorizem qualidade de código, colaboração e impacto de produto — atuando como desenvolvedor front-end, back-end ou full stack em soluções modernas e escaláveis.
 
 **EN**
 
-I am looking for opportunities to work on front-end, back-end, and full stack applications, contributing with modern, organized, and scalable solutions.
+I am looking for opportunities in teams that value code quality, collaboration, and product impact — working as a front-end, back-end, or full stack developer on modern and scalable solutions.
 
 ---
 
